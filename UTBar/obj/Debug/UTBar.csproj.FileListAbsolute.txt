@@ -1,0 +1,10 @@
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\bin\Debug\UTBar.exe.config
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\bin\Debug\UTBar.exe
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\bin\Debug\UTBar.pdb
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.Form1.resources
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.exe
+c:\users\michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.pdb
+C:\Users\Michal\documents\visual studio 2015\Projects\UTBar\UTBar\obj\Debug\UTBar.Settings.resources
